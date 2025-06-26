@@ -15,7 +15,7 @@
 
 ---
 
-### 🧭 Connect With Me!
+### ✔ Connect With Me!
 <div align="left">
   <a href="mailto:guinunez@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -46,11 +46,8 @@
 
 <div align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=GuiEngSoftw&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-
+  
 ---
-
-### 🐍 Snake Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg">
