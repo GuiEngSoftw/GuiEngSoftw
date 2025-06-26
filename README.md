@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me!</h3>
  <div> 
-  <a href = "mailto:guinunez@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="email to:guinunez@icloud.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=dark" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
 
 <div style="display: inline_block"><br>
 <h3 align="left">My Stack ~</h3>
