@@ -1,8 +1,8 @@
-<p align="center">👋 Sou estudante de Engenharia de Software com forte interesse em gestão de projetos. Tenho foco na aplicação de metodologias ágeis, incluindo Scrum, Kanban, Extreme Programming (XP) e Lean, buscando sempre otimizar processos e resultados em ambientes colaborativos.
+<p align="center">Sou estudante de Engenharia de Software com grande interesse em gestão de projetos e metodologias ágeis (Scrum, Kanban, XP e Lean).
+<p align="center">Estou em constante aprendizado, sempre em busca de desafios que expandam meus conhecimentos em tecnologia e desenvolvimento de software.
+<p align="center">🚀 Atualmente, estudo Python, MySQL e CMD, com foco em back-end e soluções orientadas a dados.
 
-<p align="center">🚀 Estou em constante evolução, buscando aprimorar minhas habilidades técnicas!
-
-<p align="center">💻 Atualmente, estou me dedicando ao estudo de Python, MySQL e CMD com foco em desenvolvimento back-end e soluções orientadas a dados.
+<p align="center">📌 Aqui você encontrará projetos pessoais, estudos práticos e experimentos que fazem parte da minha jornada de evolução profissional.
 
 ##
 
