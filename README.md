@@ -18,12 +18,16 @@
 ### ✔ Connect With Me!
 <div align="left">
   <a href="mailto:guinunez@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=icloud&logoColor=white&color=000000" />
   </a>
   <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000&color=0077B5" />
   </a>
 </div>
+
+
+
+
 
 ---
 
