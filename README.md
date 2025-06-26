@@ -1,11 +1,18 @@
-👋 Olá! Meu chamo Guilherme, sou estudante de Engenharia de Software com forte interesse em gestão de projetos. Tenho foco na aplicação de metodologias ágeis, incluindo Scrum, Kanban, Extreme Programming (XP) e Lean, buscando sempre otimizar processos e resultados em ambientes colaborativos.
+<p align="center">👋 Sou estudante de Engenharia de Software com forte interesse em gestão de projetos. Tenho foco na aplicação de metodologias ágeis, incluindo Scrum, Kanban, Extreme Programming (XP) e Lean, buscando sempre otimizar processos e resultados em ambientes colaborativos.
 
-🚀 Estou em constante evolução, buscando aprimorar minhas habilidades técnicas!
+<p align="center">🚀 Estou em constante evolução, buscando aprimorar minhas habilidades técnicas!
 
-💻 Atualmente, estou me dedicando ao estudo de Python, MySQL e CMD com foco em desenvolvimento back-end e soluções orientadas a dados.
+<p align="center">💻 Atualmente, estou me dedicando ao estudo de Python, MySQL e CMD com foco em desenvolvimento back-end e soluções orientadas a dados.
+
+##
+
+<h3 align="left">Connect with me!</h3>
+ <div> 
+  <a href = "mailto:guinunez@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div style="display: inline_block"><br>
-
+<h3 align="left">My Stack ~</h3>
   <img align="center" alt="GuiEngSoftw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="GuiEngSoftw-Scrum" height="30" width="40"src= "https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/scrum.svg">
 <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"height="30" width="40" />
@@ -15,12 +22,6 @@
 <img  align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"height="30" width="40"  />
 <img  align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"height="30" width="40"/>
 </div>
-
- ##
-
- <div> 
-  <a href = "mailto:guinunez@iclouc.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ##
 
