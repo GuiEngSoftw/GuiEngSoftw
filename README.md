@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software</strong> com grande interesse em <strong>gestão de projetos</strong> e <strong>metodologias ágeis</strong> (Scrum, Kanban, XP e Lean).<br>
+  <strong>Estudante de Engenharia de Software</strong> apaixonado em <strong>gestão de projetos</strong> e <strong>metodologias ágeis</strong> (Scrum, Kanban, XP e Lean).<br>
   Em constante aprendizado, estou sempre em busca de desafios que expandam meus conhecimentos em <strong>tecnologia</strong> e <strong>desenvolvimento de software</strong>.<br>
   🚀 Atualmente, estudo <strong>Python</strong> e <strong>MySQL</strong> com foco em <strong>back-end</strong> e <strong>soluções orientadas a dados</strong>.
 </p>
