@@ -4,9 +4,10 @@
 
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software</strong> apaixonado em <strong>gestão de projetos</strong> e <strong>metodologias ágeis</strong> (Scrum, Kanban, XP e Lean).<br>
-  Em constante aprendizado, estou sempre em busca de desafios que expandam meus conhecimentos em <strong>tecnologia</strong> e <strong>desenvolvimento de software</strong>.<br>
-  🚀 Atualmente, estudo <strong>Python</strong> e <strong>MySQL</strong> com foco em <strong>back-end</strong> e <strong>soluções orientadas a dados</strong>.
+  Graduando em Engenharia de Software com profunda paixão por Gestão de Projetos e excelência na entrega de resultados. Meu foco está em atuar na intersecção entre o código e o negócio, utilizando o conhecimento em metodologias ágeis para otimizar a performance de equipes e o ciclo de desenvolvimento.
+
+Estou em constante aprendizado e dedicação ao Desenvolvimento Back-end, com ênfase no aprofundamento de Java e gerenciamento de bancos de dados com MySQL. Possuo conhecimento sólido e capacidade de aplicação das metodologias Scrum e Kanban, e busco ativamente desafios que me permitam aliar esse conhecimento técnico e ágil com a gestão eficiente de processos.
+
 </p>
 
 <p align="center">
