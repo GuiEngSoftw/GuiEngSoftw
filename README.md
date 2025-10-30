@@ -4,9 +4,21 @@
 
 
 <p align="center">
-  Graduando em Engenharia de Software com profunda paixão por Gestão de Projetos e excelência na entrega de resultados. Meu foco está em atuar na intersecção entre o código e o negócio, utilizando o conhecimento em metodologias ágeis para otimizar a performance de equipes e o ciclo de desenvolvimento.
-
-Estou em constante aprendizado e dedicação ao Desenvolvimento Back-end, com ênfase no aprofundamento de Java e gerenciamento de bancos de dados com MySQL. Possuo conhecimento sólido e capacidade de aplicação das metodologias Scrum e Kanban, e busco ativamente desafios que me permitam aliar esse conhecimento técnico e ágil com a gestão eficiente de processos.
+</p>
+  •	Profissional da área de Tecnologia da Informação, com ênfase em Desenvolvimento Java/Gestão de Projetos.
+</p>
+  •	Conhecimentos em desenvolvimento de aplicações Java, com foco em orientação a objetos, boas práticas de codificação, versionamento com Git e gestão de tarefas com Jira.
+</p>
+  •	Atuação em projetos ágeis, com vivência em metodologias como Scrum e Kanban, contribuindo para o planejamento, execução e acompanhamento de entregas.
+</p>
+  •	Experiência em negociação e entendimento da demanda do cliente.
+</p>
+  •	Participação em todas as etapas do ciclo de vida de projetos, desde levantamento de requisitos até testes e implantação.
+</p>
+  •	Conhecimento em integração entre sistemas e bancos de dados relacionais, com uso de MySQL e PostgreSQL.
+  </p>
+•	Capacidade de análise técnica e resolução de problemas, com foco em melhoria contínua e otimização de processos.
+</p>
 
 </p>
 
