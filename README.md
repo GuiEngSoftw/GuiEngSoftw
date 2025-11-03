@@ -1,6 +1,4 @@
-![Banner do Perfil](meu-banner.png)
-
-
+<img width="1096" height="284" alt="Captura de tela de 2025-11-03 17-26-30" src="https://github.com/user-attachments/assets/2177988b-9d4b-494e-8921-70dee4c1da1d" />
 
 
 <p align="center">
