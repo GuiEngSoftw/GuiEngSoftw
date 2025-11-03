@@ -1,33 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2d5a7a&center=true&vCenter=true&width=600&lines=Bem-vindo!+Me+chamo+Guilherme." alt="Typing SVG" />
-</p>
+![Banner do Perfil](meu-banner.png)
+
+
 
 
 <p align="center">
-</p>
-  •	Profissional da área de Tecnologia da Informação, com ênfase em Desenvolvimento Java/Gestão de Projetos.
-</p>
-  •	Conhecimentos em desenvolvimento de aplicações Java, com foco em orientação a objetos, boas práticas de codificação, versionamento com Git e gestão de tarefas com Jira.
-</p>
-  •	Atuação em projetos ágeis, com vivência em metodologias como Scrum e Kanban, contribuindo para o planejamento, execução e acompanhamento de entregas.
-</p>
-  •	Experiência em negociação e entendimento da demanda do cliente.
-</p>
-  •	Participação em todas as etapas do ciclo de vida de projetos, desde levantamento de requisitos até testes e implantação.
-</p>
-  •	Conhecimento em integração entre sistemas e bancos de dados relacionais, com uso de MySQL e PostgreSQL.
-  </p>
-•	Capacidade de análise técnica e resolução de problemas, com foco em melhoria contínua e otimização de processos.
-</p>
+ 
+<p align="center">
 
-</p>
+  
+# 🚀 Desenvolvedor Java Júnior & Foco em Engenharia de Software
 
+Sou um **Desenvolvedor Java Júnior** e **Engenheiro de Software** em transição para a consolidação **prática**, com **sólida base teórica** e grande motivação para contribuir em projetos desafiadores. Meu foco está em aplicar princípios de **Orientação a Objetos (POO)** e **Boas Práticas de Código (**Clean Code**)**, priorizando a **qualidade** e a **manutenibilidade** do software.
+
+## 🛠️ Expertise Técnica e Fundamentos
+
+* **Desenvolvimento Java:** Proficiência teórica em **Java**, com foco em desenvolvimento de aplicações e forte base em **Design Patterns** e conceitos de **Arquitetura de Software**.
+* **Versionamento e Colaboração:** Proficiência na utilização de **Git** e plataformas como **GitHub** para versionamento, controle de código e colaboração eficaz em equipe.
+* **Metodologias Ágeis:** Conhecimento aprofundado e vivência teórica em metodologias **Scrum** e **Kanban**, utilizando ferramentas como **Jira** para simular a gestão de *backlogs*, planejamento e acompanhamento de tarefas.
+* **Persistência de Dados:** Conhecimento em integração e manipulação de dados em bancos de dados relacionais (**MySQL** e **PostgreSQL**).
+* **Análise e Resolução de Problemas:** Capacidade de realizar **análise técnica** e *troubleshooting*, focado em aprender e aplicar as melhores soluções para otimização de processos.
+
+## 💡 Conhecimento do Ciclo de Vida do Software (SDLC)
+
+Busco aplicar ativamente o conhecimento integral sobre o **Ciclo de Vida do Desenvolvimento de Software (SDLC)**, desde a concepção até a entrega:
+
+* Levantamento de Requisitos e Análise de Sistemas.
+* Desenvolvimento e Codificação.
+* Testes (Unitários e de Integração) e Garantia de Qualidade.
+* Deploy (Implantação) e Manutenção.
+
+## 📌 Este Repositório (Meus Projetos e Estudos Práticos)
+
+Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui, demonstro minha **jornada de aprendizado** e aplicação da teoria em código real:
+
+* **Projetos Pessoais:** Demonstrações iniciais de **aplicações Java** e tecnologias correlatas, aplicando os conceitos de POO.
+* **Estudos Práticos:** Implementações de conceitos fundamentais, **Design Patterns** e arquiteturas em fase de estudo.
+* **Experimentos:** Evolução contínua em busca de **experiência prática** e consolidação de novas tecnologias.
+
+---
 <p align="center">
   📌 Aqui você encontrará <strong>projetos pessoais</strong>, <strong>estudos práticos</strong> e <strong>experimentos</strong> que fazem parte da minha jornada de evolução profissional.
 </p>
-
 ---
 
+<p
+  
 ### ✔ Connect With Me!
 <div align="left">
   <a href="mailto:guinunez@icloud.com" target="_blank">
@@ -37,6 +54,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000&color=0077B5" />
   </a>
 </div>
+
 
 ---
 
@@ -64,7 +82,7 @@
 <img align="center" alt="DBeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
 
     
-          
+</p>          
           
           
           
@@ -78,6 +96,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=GuiEngSoftw&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   
 ---
+
+
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg">
@@ -87,6 +108,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2d5a7a&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+Vamos+codar+juntos." alt="Typing SVG" />
 </p>
+
+
 
 
 
