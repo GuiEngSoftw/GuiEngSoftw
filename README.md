@@ -35,11 +35,11 @@ Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui,
 * **Estudos Práticos:** Implementações de conceitos fundamentais, **Design Patterns** e arquiteturas em fase de estudo.
 * **Experimentos:** Evolução contínua em busca de **experiência prática** e consolidação de novas tecnologias.
 
+📌 Aqui você encontrará <strong>projetos pessoais</strong>, <strong>estudos práticos</strong> e <strong>experimentos</strong> que fazem parte da minha jornada de evolução profissional.
 ---
 <p align="center">
-  📌 Aqui você encontrará <strong>projetos pessoais</strong>, <strong>estudos práticos</strong> e <strong>experimentos</strong> que fazem parte da minha jornada de evolução profissional.
+  
 </p>
----
 
 <p
   
