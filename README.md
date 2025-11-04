@@ -79,9 +79,7 @@ Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui,
 <img align="center" alt="DBeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
 
     
-</p>          
-          
-          
+</p>             
           
 </div>
 
@@ -94,8 +92,6 @@ Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui,
   
 ---
 
-
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg">
@@ -103,10 +99,5 @@ Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui,
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2d5a7a&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+Vamos+codar+juntos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2d5a7a&center=true&vCenter=true&width=600&lines=Aberto+a+pull+requests+e+insights+de+Engenharia.;Vamos+juntos+refinar+este+Software!" alt="Typing SVG" />
 </p>
-
-
-
-
-
