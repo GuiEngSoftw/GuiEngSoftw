@@ -8,11 +8,11 @@
   
 # 🚀 Desenvolvedor Java Júnior & Foco em Engenharia de Software
 
-Sou um **Desenvolvedor Java Júnior** e **Engenheiro de Software** em transição para a consolidação **prática**, com **sólida base teórica** e grande motivação para contribuir em projetos desafiadores. Meu foco está em aplicar princípios de **Orientação a Objetos (POO)** e **Boas Práticas de Código (**Clean Code**)**, priorizando a **qualidade** e a **manutenibilidade** do software.
+Sou um **Desenvolvedor Pyhon e Java Júnior** e **Engenheiro de Software** em transição para a consolidação **prática**, com **sólida base teórica** e grande motivação para contribuir em projetos desafiadores. Meu foco está em aplicar princípios de **Orientação a Objetos (POO)** e **Boas Práticas de Código (**Clean Code**)**, priorizando a **qualidade** e a **manutenibilidade** do software.
 
 ## 🛠️ Expertise Técnica e Fundamentos
 
-* **Desenvolvimento Java:** Proficiência teórica em **Java**, com foco em desenvolvimento de aplicações e forte base em **Design Patterns** e conceitos de **Arquitetura de Software**.
+* **Desenvolvimento Python e Java:** Proficiência teórica em **Java**, com foco em desenvolvimento de aplicações e forte base em **Design Patterns** e conceitos de **Arquitetura de Software**.
 * **Versionamento e Colaboração:** Proficiência na utilização de **Git** e plataformas como **GitHub** para versionamento, controle de código e colaboração eficaz em equipe.
 * **Metodologias Ágeis:** Conhecimento aprofundado e vivência teórica em metodologias **Scrum** e **Kanban**, utilizando ferramentas como **Jira** para simular a gestão de *backlogs*, planejamento e acompanhamento de tarefas.
 * **Persistência de Dados:** Conhecimento em integração e manipulação de dados em bancos de dados relacionais (**MySQL** e **PostgreSQL**).
