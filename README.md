@@ -6,7 +6,7 @@
 <p align="center">
 
   
-# 🚀 Desenvolvedor Pyhton e Java Júnior & Foco em Engenharia de Software
+# 🚀 Desenvolvedor Python e Java Júnior & Foco em Engenharia de Software
 
 Sou um **Desenvolvedor Pyhon e Java Júnior** e **Engenheiro de Software** em transição para a consolidação **prática**, com **sólida base teórica** e grande motivação para contribuir em projetos desafiadores. Meu foco está em aplicar princípios de **Orientação a Objetos (POO)** e **Boas Práticas de Código (**Clean Code**)**, priorizando a **qualidade** e a **manutenibilidade** do software.
 
