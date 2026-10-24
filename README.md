@@ -6,6 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=32&lines=Software+Engineering+%26+Architecture;Quality+Engineering+%26+Testing;Backend+Development+%26+Data;Security+%7C+Reliability+%7C+Performance" alt="Especialidades profissionais"/>
 
 <p>
+<img src="https://img.shields.io/badge/CREA--RS-279297-155E75?style=flat-square" alt="CREA-RS 279297"/>
+</p>
+
+<p>
 <a href="mailto:guinunez@icloud.com">
 <img src="https://img.shields.io/badge/iCloud-Email-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
 </a>
@@ -25,7 +29,7 @@
 
 **Engenheiro de Software | Arquitetura de Software | Quality Engineering**
 
-Sou bacharel em Engenharia de Software, técnico em Desenvolvimento de Sistemas e pós-graduando em Qualidade e Testes de Software.
+Sou bacharel em Engenharia de Software, com registro profissional no **CREA-RS nº 279297**, técnico em Desenvolvimento de Sistemas e pós-graduando em Qualidade e Testes de Software.
 
 Atuo no desenvolvimento e na estruturação de soluções tecnológicas, com conhecimentos em **arquitetura de software, engenharia de requisitos, backend, bancos de dados, modelagem UML, testes e documentação técnica**.
 
