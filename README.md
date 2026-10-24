@@ -1,105 +1,241 @@
-<img width="1096" height="284" alt="Captura de tela de 2025-11-03 17-26-30" src="https://github.com/user-attachments/assets/2177988b-9d4b-494e-8921-70dee4c1da1d" />
 
+<div align="center">
 
-<p align="center">
- 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0B3652,100:0891B2&text=GUILHERME%20LIMA%20NU%C3%91EZ&fontColor=FFFFFF&fontSize=34&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20QUALITY%20ENGINEERING&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="Guilherme Lima Nuñez"/>
 
-  
-# 🚀 Desenvolvedor Python e Java & Foco em Engenharia de Software
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&height=30&lines=Software+Engineering+%26+Architecture;Quality+Assurance+%26+Software+Testing;Backend+Development+%26+Databases;Security+%7C+Reliability+%7C+Performance" alt="Especialidades"/>
 
-Sou um **Desenvolvedor Python e Java** e **Engenheiro de Software** em transição para a consolidação **prática**, com **sólida base teórica** e grande motivação para contribuir em projetos desafiadores. Meu foco está em aplicar princípios de **Orientação a Objetos (POO)** e **Boas Práticas de Código (**Clean Code**)**, priorizando a **qualidade** e a **manutenibilidade** do software.
-
-## 🛠️ Expertise Técnica e Fundamentos
-
-* **Desenvolvimento Python e Java:** Proficiência teórica em **Java**, com foco em desenvolvimento de aplicações e forte base em **Design Patterns** e conceitos de **Arquitetura de Software**.
-* **Versionamento e Colaboração:** Proficiência na utilização de **Git** e plataformas como **GitHub** para versionamento, controle de código e colaboração eficaz em equipe.
-* **Metodologias Ágeis:** Conhecimento aprofundado e vivência teórica em metodologias **Scrum** e **Kanban**, utilizando ferramentas como **Jira** para simular a gestão de *backlogs*, planejamento e acompanhamento de tarefas.
-* **Persistência de Dados:** Conhecimento em integração e manipulação de dados em bancos de dados relacionais (**MySQL** e **PostgreSQL**).
-* **Análise e Resolução de Problemas:** Capacidade de realizar **análise técnica** e *troubleshooting*, focado em aprender e aplicar as melhores soluções para otimização de processos.
-
-## 💡 Conhecimento do Ciclo de Vida do Software (SDLC)
-
-Busco aplicar ativamente o conhecimento integral sobre o **Ciclo de Vida do Desenvolvimento de Software (SDLC)**, desde a concepção até a entrega:
-
-* Levantamento de Requisitos e Análise de Sistemas.
-* Desenvolvimento e Codificação.
-* Testes (Unitários e de Integração) e Garantia de Qualidade.
-* Deploy (Implantação) e Manutenção.
-
-## 📌 Este Repositório (Meus Projetos e Estudos Práticos)
-
-Este espaço é o meu **laboratório prático** de Engenharia de Software. Aqui, demonstro minha **jornada de aprendizado** e aplicação da teoria em código real:
-
-* **Projetos Pessoais:** Demonstrações iniciais de **aplicações Java** e tecnologias correlatas, aplicando os conceitos de POO.
-* **Estudos Práticos:** Implementações de conceitos fundamentais, **Design Patterns** e arquiteturas em fase de estudo.
-* **Experimentos:** Evolução contínua em busca de **experiência prática** e consolidação de novas tecnologias.
-
----
-<p align="center">
-  
+<p>
+<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-0F172A?style=flat-square" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/QUALITY-ASSURANCE-0369A1?style=flat-square" alt="Quality Assurance"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ARCHITECTURE-155E75?style=flat-square" alt="Software Architecture"/>
 </p>
 
-<p
-  
-### ✔ Connect With Me!
-<div align="left">
-  <a href="mailto:guinunez@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=icloud&logoColor=white&color=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-lima-nuñez-8a3528169/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000&color=0077B5" />
-  </a>
-</div>
+<p>
+<a href="mailto:guinunez@icloud.com">
+<img src="https://img.shields.io/badge/iCloud-guinunez%40icloud.com-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/GuiEngSoftw">
+<img src="https://img.shields.io/badge/GitHub-GuiEngSoftw-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 
-
----
-
-### 💻 My Stack
-
-<div style="display: inline_block"><br>
-  
-
-
-<img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">
-<img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-<img align="center" alt="UML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg">
-
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="30" width="40" />
-<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-     
-                  
-<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg">
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="DBeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
-
-     
-          
-    
-</p>             
-          
 </div>
 
 ---
 
-### 📊 Statistics
+## 01 / PERFIL PROFISSIONAL
 
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=GuiEngSoftw&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  
+### Engenharia de Software | Arquitetura | Qualidade
+
+Sou **Engenheiro de Software**, com formação técnica em Desenvolvimento de Sistemas e pós-graduação em Qualidade e Testes de Software em andamento.
+
+Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, modelagem UML, engenharia de requisitos, bancos de dados, testes e documentação técnica. Também possuo experiência em gestão operacional e melhoria de processos, conectando engenharia de software às necessidades reais de negócio.
+
+**Abordagem de engenharia:** `Requisitos` → `Arquitetura` → `Desenvolvimento` → `Testes` → `Segurança` → `Entrega`
+
 ---
+
+## 02 / ENGINEERING ASSISTANT
+
+<div align="center">
+
+**🤖 Engineering Intelligence**
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=30&lines=Engineering+systems...;Analyzing+software+architecture...;Evaluating+software+quality...;Thinking+about+better+solutions...;Building+reliable+software." alt="Assistente digital animada"/>
+
+<p>
+<img src="https://img.shields.io/badge/ENGINEERING-ONLINE-0891B2?style=flat-square" alt="Engineering Online"/>
+<img src="https://img.shields.io/badge/QUALITY-CONTINUOUS-0F766E?style=flat-square" alt="Quality Continuous"/>
+</p>
+
+</div>
+
+---
+
+## 03 / TECHNOLOGY STACK
+
+<div align="center">
+
+**Linguagens e Tecnologias Web**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" height="42" alt="Java JavaScript Python HTML CSS"/>
+
+<br/><br/>
+
+**Backend e Bancos de Dados**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" height="42" alt="Node.js PostgreSQL MySQL"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+
+<br/><br/>
+
+**DevOps, Infraestrutura e Versionamento**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" height="42" alt="Docker Linux Git GitHub"/>
+
+<br/><br/>
+
+**Engenharia, Modelagem e Gestão**
+
+<br/>
+
+<img src="https://img.shields.io/badge/UML-Modelagem-0F172A?style=flat-square" alt="UML"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Monday.com-6C6CFF?style=flat-square&logo=mondaydotcom&logoColor=white" alt="Monday.com"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postman,figma&theme=dark" height="38" alt="Postman Figma"/>
+
+<br/><br/>
+
+**Quality Assurance & Performance**
+
+<br/>
+
+<img src="https://img.shields.io/badge/QA-Quality%20Assurance-0891B2?style=flat-square" alt="QA"/>
+<img src="https://img.shields.io/badge/k6-Performance-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6"/>
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter"/>
+<img src="https://img.shields.io/badge/API-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing"/>
+
+</div>
+
+---
+
+## 04 / ENGINEERING EXPERTISE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Software Architecture**
+
+- Arquitetura de aplicações
+- Modelagem UML
+- APIs REST
+- Engenharia de requisitos
+- Regras de negócio
+- Documentação técnica
+- Modelagem de sistemas
+
+</td>
+<td width="50%" valign="top">
+
+**Quality Engineering**
+
+- Testes funcionais
+- Testes de integração
+- Testes de regressão
+- Testes de desempenho
+- Testes de carga e stress
+- Planejamento de testes
+- Rastreabilidade
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Backend & Data**
+
+- Java
+- JavaScript e Node.js
+- Python
+- PostgreSQL
+- MySQL e MariaDB
+- Modelagem de dados
+- Integração de sistemas
+
+</td>
+<td width="50%" valign="top">
+
+**Engineering Practices**
+
+- Git e GitHub
+- Docker e Linux
+- Segurança por projeto
+- Controle de acesso
+- Auditoria
+- Versionamento
+- Gestão de projetos
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 / ENGINEERING MINDSET
+
+<div align="center">
+
+**Requirements → Architecture → Development → Testing → Security → Delivery**
+
+*Software quality is not a final step. It is an engineering principle.*
+
+</div>
+
+---
+
+## 06 / GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuiEngSoftw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+
+</div>
+
+---
+
+## 07 / CONTRIBUTION ACTIVITY
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/GuiEngSoftw/GuiEngSoftw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2d5a7a&center=true&vCenter=true&width=600&lines=Aberto+a+pull+requests+e+insights+de+Engenharia.;Vamos+juntos+refinar+este+Software!" alt="Typing SVG" />
+</div>
+
+---
+
+## 08 / PROFESSIONAL CONNECTIONS
+
+<div align="center">
+
+**Software Engineering • Architecture • Quality**
+
+<p>
+<a href="mailto:guinunez@icloud.com">
+<img src="https://img.shields.io/badge/iCloud-guinunez%40icloud.com-007AFF?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Email"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/GuiEngSoftw">
+<img src="https://img.shields.io/badge/GitHub-GuiEngSoftw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
+
+<strong>Guilherme Lima Nuñez</strong>
+
+<sub>Software Engineer | Quality Engineering | Software Architecture</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0B3652,100:020617&height=75&section=footer" width="100%" alt="Rodapé"/>
