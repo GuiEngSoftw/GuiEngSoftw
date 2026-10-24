@@ -1,22 +1,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0B3652,100:0891B2&text=GUILHERME%20LIMA%20NU%C3%91EZ&fontColor=FFFFFF&fontSize=34&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20QUALITY%20ENGINEERING&descAlignY=62&descSize=14&animation=fadeIn" width="100%" alt="Guilherme Lima Nuñez"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:020617,45:0B3652,100:0891B2&text=GUILHERME%20LIMA%20NU%C3%91EZ&fontColor=FFFFFF&fontSize=34&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20%7C%20ARCHITECTURE%20%7C%20QUALITY&descAlignY=61&descSize=14&animation=fadeIn" width="100%" alt="Guilherme Lima Nuñez"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&height=30&lines=Software+Engineering+%26+Architecture;Quality+Assurance+%26+Software+Testing;Backend+Development+%26+Databases;Security+%7C+Reliability+%7C+Performance" alt="Especialidades"/>
-
-<p>
-<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-0F172A?style=flat-square" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/QUALITY-ASSURANCE-0369A1?style=flat-square" alt="Quality Assurance"/>
-<img src="https://img.shields.io/badge/SOFTWARE-ARCHITECTURE-155E75?style=flat-square" alt="Software Architecture"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=32&lines=Software+Engineering+%26+Architecture;Quality+Engineering+%26+Testing;Backend+Development+%26+Data;Security+%7C+Reliability+%7C+Performance" alt="Especialidades profissionais"/>
 
 <p>
 <a href="mailto:guinunez@icloud.com">
-<img src="https://img.shields.io/badge/iCloud-guinunez%40icloud.com-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
+<img src="https://img.shields.io/badge/iCloud-Email-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="iCloud"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/GuiEngSoftw">
 <img src="https://img.shields.io/badge/GitHub-GuiEngSoftw-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -27,78 +21,58 @@
 
 ---
 
-## 01 / PERFIL PROFISSIONAL
+## 01 / SOBRE MIM
 
-### Engenharia de Software | Arquitetura | Qualidade
+**Engenheiro de Software | Arquitetura de Software | Quality Engineering**
 
-Sou **Engenheiro de Software**, com formação técnica em Desenvolvimento de Sistemas e pós-graduação em Qualidade e Testes de Software em andamento.
+Sou bacharel em Engenharia de Software, técnico em Desenvolvimento de Sistemas e pós-graduando em Qualidade e Testes de Software.
 
-Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, modelagem UML, engenharia de requisitos, bancos de dados, testes e documentação técnica. Também possuo experiência em gestão operacional e melhoria de processos, conectando engenharia de software às necessidades reais de negócio.
+Atuo no desenvolvimento e na estruturação de soluções tecnológicas, com conhecimentos em **arquitetura de software, engenharia de requisitos, backend, bancos de dados, modelagem UML, testes e documentação técnica**.
 
-**Abordagem de engenharia:** `Requisitos` → `Arquitetura` → `Desenvolvimento` → `Testes` → `Segurança` → `Entrega`
+Minha experiência em gestão operacional e melhoria de processos complementa minha atuação técnica, permitindo compreender necessidades de negócio e transformá-las em soluções estruturadas, seguras e sustentáveis.
 
----
-
-## 02 / ENGINEERING ASSISTANT
-<div align="center">
-
-**🤖 Engineering Intelligence**
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=30&lines=Engineering+systems...;Analyzing+software+architecture...;Evaluating+software+quality...;Thinking+about+better+solutions...;Building+reliable+software." alt="Assistente digital animada"/>
-<p>
-<img src="https://img.shields.io/badge/ENGINEERING-ONLINE-0891B2?style=flat-square" alt="Engineering Online"/>
-<img src="https://img.shields.io/badge/QUALITY-CONTINUOUS-0F766E?style=flat-square" alt="Quality Continuous"/>
-</p>
-</div>
+Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, manutenibilidade e capacidade de evolução**.
 
 ---
 
-## 03 / TECHNOLOGY STACK
+## 02 / TECHNOLOGY STACK
+
 <div align="center">
 
-**Linguagens e Tecnologias Web**
+**LINGUAGENS & WEB**
 
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" height="42" alt="Java JavaScript Python HTML CSS"/>
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" height="43" alt="Java, JavaScript, Python, HTML5 e CSS3"/>
 
-**Backend e Bancos de Dados**
+**BACKEND & DATABASES**
 
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" height="42" alt="Node.js PostgreSQL MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" height="43" alt="Node.js, PostgreSQL e MySQL"/>
+
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
-<br/><br/>
 
-**DevOps, Infraestrutura e Versionamento**
+**DEVOPS & VERSION CONTROL**
 
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" height="42" alt="Docker Linux Git GitHub"/>
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" height="43" alt="Docker, Linux, Git e GitHub"/>
 
-**Engenharia, Modelagem e Gestão**
+**ENGINEERING & PRODUCTIVITY**
 
-<br/>
-<img src="https://img.shields.io/badge/UML-Modelagem-0F172A?style=flat-square" alt="UML"/>
+<img src="https://img.shields.io/badge/UML-Modeling-334155?style=flat-square" alt="UML"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 <img src="https://img.shields.io/badge/Monday.com-6C6CFF?style=flat-square&logo=mondaydotcom&logoColor=white" alt="Monday.com"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,figma&theme=dark" height="38" alt="Postman Figma"/>
-<br/><br/>
 
-**Quality Assurance & Performance**
+<img src="https://skillicons.dev/icons?i=postman,figma&theme=dark" height="38" alt="Postman e Figma"/>
 
-<br/>
+**QUALITY ASSURANCE & PERFORMANCE**
 
-<img src="https://img.shields.io/badge/QA-Quality%20Assurance-0891B2?style=flat-square" alt="QA"/>
-<img src="https://img.shields.io/badge/k6-Performance-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6"/>
-<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-<img src="https://img.shields.io/badge/API-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing"/>
+<img src="https://img.shields.io/badge/Quality_Assurance-0891B2?style=flat-square" alt="QA"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6"/>
+<img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/>
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API Testing"/>
 
 </div>
 
 ---
 
-## 04 / ENGINEERING EXPERTISE
+## 03 / ENGINEERING EXPERTISE
 
 <table>
 <tr>
@@ -107,23 +81,21 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 **Software Architecture**
 
 - Arquitetura de aplicações
+- Engenharia de requisitos
 - Modelagem UML
 - APIs REST
-- Engenharia de requisitos
 - Regras de negócio
 - Documentação técnica
-- Modelagem de sistemas
 
 </td>
 <td width="50%" valign="top">
 
 **Quality Engineering**
 
-- Testes funcionais
-- Testes de integração
+- Testes funcionais e de integração
 - Testes de regressão
-- Testes de desempenho
 - Testes de carga e stress
+- Testes de desempenho
 - Planejamento de testes
 - Rastreabilidade
 
@@ -134,25 +106,23 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 
 **Backend & Data**
 
-- Java
-- JavaScript e Node.js
+- Java, JavaScript e Node.js
 - Python
-- PostgreSQL
-- MySQL e MariaDB
+- PostgreSQL, MySQL e MariaDB
 - Modelagem de dados
 - Integração de sistemas
+- Desenvolvimento de APIs
 
 </td>
 <td width="50%" valign="top">
 
 **Engineering Practices**
 
-- Git e GitHub
-- Docker e Linux
+- Git, GitHub e Docker
+- Linux
 - Segurança por projeto
 - Controle de acesso
-- Auditoria
-- Versionamento
+- Auditoria e versionamento
 - Gestão de projetos
 
 </td>
@@ -161,19 +131,27 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 
 ---
 
-## 05 / ENGINEERING MINDSET
+## 04 / ENGINEERING APPROACH
 
 <div align="center">
 
 **Requirements → Architecture → Development → Testing → Security → Delivery**
 
-*Software quality is not a final step. It is an engineering principle.*
+*Quality is not a final step. It is an engineering principle.*
 
 </div>
 
+Meu processo de desenvolvimento valoriza:
+
+- **Planejamento:** requisitos claros, regras de negócio e rastreabilidade.
+- **Arquitetura:** componentes organizados, responsabilidades definidas e decisões documentadas.
+- **Qualidade:** validação funcional, testes de integração e análise de desempenho.
+- **Segurança:** controle de acesso, proteção de dados e prevenção de vulnerabilidades.
+- **Evolução:** versionamento, manutenibilidade e melhoria contínua.
+
 ---
 
-## 06 / GITHUB STATISTICS
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
@@ -183,7 +161,7 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 
 ---
 
-## 07 / CONTRIBUTION ACTIVITY
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -197,11 +175,13 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 
 ---
 
-## 08 / PROFESSIONAL CONNECTIONS
+## 07 / PROFESSIONAL CONNECTIONS
 
 <div align="center">
 
-**Software Engineering • Architecture • Quality**
+**Guilherme Lima Nuñez**
+
+Software Engineer | Software Architecture | Quality Engineering
 
 <p>
 <a href="mailto:guinunez@icloud.com">
@@ -215,10 +195,8 @@ Minha atuação envolve desenvolvimento de sistemas, arquitetura de software, mo
 </a>
 </p>
 
-<strong>Guilherme Lima Nuñez</strong>
-
-<sub>Software Engineer | Quality Engineering | Software Architecture</sub>
+<sub>Software Engineering • Architecture • Quality • Security</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0B3652,100:020617&height=75&section=footer" width="100%" alt="Rodapé"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0B3652,100:020617&height=70&section=footer" width="100%" alt="Rodapé"/>
