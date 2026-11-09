@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:020617,45:0B3652,100:0891B2&text=GUILHERME%20LIMA%20NU%C3%91EZ&fontColor=FFFFFF&fontSize=34&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20%7C%20ARCHITECTURE%20%7C%20QUALITY&descAlignY=61&descSize=14&animation=fadeIn" width="100%" alt="Guilherme Lima Nuñez"/>
+<img src="assets/banner.svg" width="100%" alt="Guilherme Lima Nuñez"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=32&lines=Software+Engineering+%26+Architecture;Quality+Engineering+%26+Testing;Backend+Development+%26+Data;Security+%7C+Reliability+%7C+Performance" alt="Especialidades profissionais"/>
 
