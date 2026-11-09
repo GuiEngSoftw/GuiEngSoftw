@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:020617,45:0B3652,100:0891B2&text=GUILHERME%20LIMA%20NU%C3%91EZ&fontColor=FFFFFF&fontSize=34&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20%7C%20ARCHITECTURE%20%7C%20QUALITY&descAlignY=61&descSize=14&animation=fadeIn" width="100%" alt="Guilherme Lima Nuñez"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=32&lines=Software+Engineering+%26+Architecture;Quality+Engineering+%26+Testing;Backend+Development+%26+Data;Security+%7C+Reliability+%7C+Performance" alt="Especialidades profissionais"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=32&lines=Software+Engineering+%26+Architecture;Quality+Engineering+%26+Testing;Backend+Development+%26+Data;Security+%7C+Reliability+%7C+Performance" alt="Especialidades profissionais"/>
 
 <p>
 <img src="https://img.shields.io/badge/CREA--RS-279297-155E75?style=flat-square" alt="CREA-RS 279297"/>
@@ -25,11 +25,9 @@
 
 ---
 
-## 01 / SOBRE MIM
+## 01 / ABOUT
 
 **Engenheiro de Software | Arquitetura de Software | Quality Engineering**
-
-Sou bacharel em Engenharia de Software, com registro profissional no **CREA-RS nº 279297**, técnico em Desenvolvimento de Sistemas e pós-graduando em Qualidade e Testes de Software.
 
 Atuo no desenvolvimento e na estruturação de soluções tecnológicas, com conhecimentos em **arquitetura de software, engenharia de requisitos, backend, bancos de dados, modelagem UML, testes e documentação técnica**.
 
@@ -39,11 +37,40 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 
 ---
 
-## 02 / TECHNOLOGY STACK
+## 02 / EDUCATION & CREDENTIALS
 
 <div align="center">
 
-**LINGUAGENS & WEB**
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<b>Bacharelado</b><br/>
+<sub>Engenharia de Software</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Pós-graduação</b><br/>
+<sub>Qualidade e Testes de Software<br/><i>em andamento</i></sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Técnico</b><br/>
+<sub>Desenvolvimento de Sistemas</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<b>Registro Profissional</b><br/>
+<sub>CREA-RS nº 279297</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 03 / TECHNOLOGY STACK
+
+<div align="center">
+
+**LANGUAGES & WEB**
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" height="43" alt="Java, JavaScript, Python, HTML5 e CSS3"/>
 
@@ -76,11 +103,13 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 
 ---
 
-## 03 / ENGINEERING EXPERTISE
+## 04 / ENGINEERING EXPERTISE
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Software Architecture**
 
@@ -92,7 +121,7 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 - Documentação técnica
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Quality Engineering**
 
@@ -104,9 +133,7 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 - Rastreabilidade
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Backend & Data**
 
@@ -118,7 +145,7 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 - Desenvolvimento de APIs
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 **Engineering Practices**
 
@@ -133,9 +160,11 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 04 / ENGINEERING APPROACH
+## 05 / ENGINEERING APPROACH
 
 <div align="center">
 
@@ -145,27 +174,48 @@ Meu foco é desenvolver software com **qualidade, segurança, rastreabilidade, m
 
 </div>
 
-Meu processo de desenvolvimento valoriza:
-
-- **Planejamento:** requisitos claros, regras de negócio e rastreabilidade.
-- **Arquitetura:** componentes organizados, responsabilidades definidas e decisões documentadas.
-- **Qualidade:** validação funcional, testes de integração e análise de desempenho.
-- **Segurança:** controle de acesso, proteção de dados e prevenção de vulnerabilidades.
-- **Evolução:** versionamento, manutenibilidade e melhoria contínua.
+<table>
+<tr>
+<td width="22%"><b>Planejamento</b></td>
+<td>Requisitos claros, regras de negócio e rastreabilidade.</td>
+</tr>
+<tr>
+<td width="22%"><b>Arquitetura</b></td>
+<td>Componentes organizados, responsabilidades definidas e decisões documentadas.</td>
+</tr>
+<tr>
+<td width="22%"><b>Qualidade</b></td>
+<td>Validação funcional, testes de integração e análise de desempenho.</td>
+</tr>
+<tr>
+<td width="22%"><b>Segurança</b></td>
+<td>Controle de acesso, proteção de dados e prevenção de vulnerabilidades.</td>
+</tr>
+<tr>
+<td width="22%"><b>Evolução</b></td>
+<td>Versionamento, manutenibilidade e melhoria contínua.</td>
+</tr>
+</table>
 
 ---
 
-## 05 / GITHUB STATISTICS
+## 06 / GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuiEngSoftw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+<img src="https://streak-stats.demolab.com?user=GuiEngSoftw&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=94A3B8&dates=64748B" height="165" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/GuiEngSoftw?style=flat-square&label=Followers&color=0891B2&logo=github&logoColor=white" alt="Seguidores"/>
+<img src="https://img.shields.io/github/stars/GuiEngSoftw?style=flat-square&label=Stars&color=0B3652&logo=github&logoColor=white" alt="Estrelas"/>
+<img src="https://komarev.com/ghpvc/?username=GuiEngSoftw&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-## 06 / CONTRIBUTION ACTIVITY
+## 07 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -179,7 +229,7 @@ Meu processo de desenvolvimento valoriza:
 
 ---
 
-## 07 / PROFESSIONAL CONNECTIONS
+## 08 / PROFESSIONAL CONNECTIONS
 
 <div align="center">
 
@@ -199,7 +249,7 @@ Software Engineer | Software Architecture | Quality Engineering
 </a>
 </p>
 
-<sub>Software Engineering • Architecture • Quality • Security</sub>
+<sub>Software Engineering • Architecture • Quality • Security • CREA-RS 279297</sub>
 
 </div>
 
